@@ -10,7 +10,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 45864,
       "hashes": {
@@ -40,7 +40,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 719081,
       "hashes": {
@@ -70,7 +70,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 85784,
       "hashes": {
@@ -96,63 +96,48 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/uCdwusMi/versions/gBf0SaV1/DistantHorizons-3.2.0-b-26.2-fabric-neoforge.jar"
+        "https://cdn.modrinth.com/data/4das1Fjq/versions/BbRYOGo5/Flashback-0.42.2-for-MC26.2.jar"
       ],
       "env": {
         "client": "optional",
         "server": "optional"
       },
-      "fileSize": 29705395,
+      "fileSize": 212390741,
       "hashes": {
-        "sha1": "3646a34691c0857a64614bb7ecd344d8b22b117a",
-        "sha512": "c1b8857776a002c2232887d891bd49195f3c3127a7abe1242376ad20371e31554d8ba6c7c92a195b70782cad94fe970941487f2af530988d9b8819455c859e72"
+        "sha1": "0fa58e7797ac7f22954bbac1ebf242e803f13a9e",
+        "sha512": "1ea9c3f2f40ffdec951a9357685a3dfc77768d03eaeead0955118aafffe1fd5065d7a6221dfecb2ae4bb38bb01af4d9c124f5893b974fab933c59acbbee3bbae"
       },
-      "path": "mods/DistantHorizons-3.2.0-b-26.2-fabric-neoforge.jar"
+      "path": "mods/Flashback-0.42.2-for-MC26.2.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/4das1Fjq/versions/HkyawEi6/Flashback-0.42.1-for-MC26.2.jar"
-      ],
-      "env": {
-        "client": "optional",
-        "server": "unsupported"
-      },
-      "fileSize": 211468125,
-      "hashes": {
-        "sha1": "801ea2798e216fe62809a4d6255db6cb6f72ba09",
-        "sha512": "c47a59d15f4dee59f52593eeb645caed297b51778819daf40ba1e36bedce566773785e0d5ea5b4e02155540074c11409f6bcad6c30df0488bd6ea602399c2418"
-      },
-      "path": "mods/Flashback-0.42.1-for-MC26.2.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/uJHxuQxy/ImmediatelyFast-Fabric-1.16.2%2B26.2.jar"
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/rxHcwxdQ/ImmediatelyFast-Fabric-1.16.3%2B26.2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 91422,
+      "fileSize": 92582,
       "hashes": {
-        "sha1": "2d1cd27b0b570f908b665c02a35b49381b4c5ec1",
-        "sha512": "5f7c9d7993bfe3654b4f384c23afd83c1adcc359b1fa669b20f29ffa41e4e3135a161c1fdf97c66c5fc513ec5fe63e757a46b6e183b7b93148a28412496c5a0b"
+        "sha1": "3a9fe02bbfdecd6af9ab418b55d4ebc9f0f1f5d3",
+        "sha512": "79321f00b73755ae54f08120e81fd559dc5d7a34ef7bedddd1e9e467de0daebec885b377db5fffd4aa190d81ce44c66af38fbef82ad49f661da5ddd2ef3fc49e"
       },
-      "path": "mods/ImmediatelyFast-Fabric-1.16.2+26.2.jar"
+      "path": "mods/ImmediatelyFast-Fabric-1.16.3+26.2.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/nvQzSEkH/versions/JB4B8a9g/Jade-mc26.2-Fabric-26.2.10.jar"
+        "https://cdn.modrinth.com/data/nvQzSEkH/versions/ue8CO97w/Jade-mc26.2-Fabric-26.2.11.jar"
       ],
       "env": {
         "client": "optional",
         "server": "optional"
       },
-      "fileSize": 1043666,
+      "fileSize": 1043764,
       "hashes": {
-        "sha1": "9ff6d8c9041251c453a25152c302ef51b918509e",
-        "sha512": "5964e943cd56a4ba9fdf6be4ed351e3b57811ce3026714348590270087f6d198c64d06b5efea7968752cbb2a3a7fba8974e014ca7573608930c87365422215ec"
+        "sha1": "101668371882c3413531025373f5d91b63e26dd0",
+        "sha512": "730e07dd5cbbf850ba0e7fd4852b528867d3e2fc2de63b156c89eee9ee6dd92d882b744f97fe724f2aa0afc5b468577486d9558f80d3e46cc5fa133ba241b9c9"
       },
-      "path": "mods/Jade-mc26.2-Fabric-26.2.10.jar"
+      "path": "mods/Jade-mc26.2-Fabric-26.2.11.jar"
     },
     {
       "downloads": [
@@ -160,7 +145,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 6269,
       "hashes": {
@@ -175,7 +160,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 78982,
       "hashes": {
@@ -190,7 +175,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 716599,
       "hashes": {
@@ -205,7 +190,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 702500,
       "hashes": {
@@ -235,7 +220,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 77630,
       "hashes": {
@@ -249,8 +234,8 @@
         "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/lyZOZ4qX/chat_heads-1.2.8-fabric-26.1.jar"
       ],
       "env": {
-        "client": "required",
-        "server": "required"
+        "client": "optional",
+        "server": "unsupported"
       },
       "fileSize": 94568,
       "hashes": {
@@ -280,7 +265,7 @@
       ],
       "env": {
         "client": "optional",
-        "server": "optional"
+        "server": "unsupported"
       },
       "fileSize": 269777,
       "hashes": {
@@ -295,7 +280,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 3634,
       "hashes": {
@@ -310,7 +295,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 287536,
       "hashes": {
@@ -325,7 +310,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 1583775,
       "hashes": {
@@ -366,18 +351,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/GHgbiobT/fancymenu_fabric_3.9.9_MC_26.2.jar"
+        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/WO5SCu8L/fancymenu_fabric_3.9.10_MC_26.2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 26284989,
+      "fileSize": 26285374,
       "hashes": {
-        "sha1": "a091552a0f7c9fd0d4bc83dac10c3e87b36fb439",
-        "sha512": "5c95eddfd2fd758c44f229fc0e29e432350665a710c8439287c4ffee4867e1f601e99616d5092385ebf5bc5047e71ca2c2cf41b67b04f57a28a737bca44dac8c"
+        "sha1": "8cb441e07a8d7df02c3ffea4c3782f2bd8bbc063",
+        "sha512": "570c9b271816156194dc1e509a6f4c497884a853f5bfaa94ee0fb680a745643e0c01f51bd3b13acd1f2aadba6f40c500de585c59afe7adff1ed7ea521601350a"
       },
-      "path": "mods/fancymenu_fabric_3.9.9_MC_26.2.jar"
+      "path": "mods/fancymenu_fabric_3.9.10_MC_26.2.jar"
     },
     {
       "downloads": [
@@ -400,7 +385,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 2820763,
       "hashes": {
@@ -411,18 +396,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/lfHFW1mp/versions/uugpK0Hl/journeymap-fabric-26.2-6.0.4.jar"
+        "https://cdn.modrinth.com/data/lfHFW1mp/versions/HDly3jmH/journeymap-fabric-26.2-6.0.5.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 4201318,
+      "fileSize": 4326716,
       "hashes": {
-        "sha1": "be0d1a9925d7ebd204cea073c59cf9b1e444e021",
-        "sha512": "5793223991c1c9b7e0af537f53d26327653cee55535a93ab9a0b4b076a8e1683138c806acdee3ce51a2dcf94442f06cae9ca345a9ac748101855d07bc71f4ea0"
+        "sha1": "91bb9a943da8b097a1dbad238be1a38759eababf",
+        "sha512": "f2af9162421cebdb04805ca350bcef4992258a4bee492a7b4806711a27b5219e72c09bbdf34c8fdd8890ad787e581b50d50de00ce0558023a0cc69787adc9f38"
       },
-      "path": "mods/journeymap-fabric-26.2-6.0.4.jar"
+      "path": "mods/journeymap-fabric-26.2-6.0.5.jar"
     },
     {
       "downloads": [
@@ -505,7 +490,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 614002,
       "hashes": {
@@ -520,7 +505,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 363646,
       "hashes": {
@@ -535,7 +520,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 17441,
       "hashes": {
@@ -565,7 +550,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 259465,
       "hashes": {
@@ -580,7 +565,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 1966389,
       "hashes": {
@@ -595,7 +580,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 482602,
       "hashes": {
@@ -610,7 +595,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 1834384,
       "hashes": {
@@ -625,7 +610,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 12657845,
       "hashes": {
@@ -681,37 +666,22 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/ZvitaqQh/versions/Ca8OxUZj/RedHat_v34.3.1.zip"
+        "https://cdn.modrinth.com/data/lLqFfGNs/versions/gUv7fBPN/photon_v1.3b.zip"
       ],
       "env": {
         "client": "optional",
         "server": "optional"
       },
-      "fileSize": 194767,
+      "fileSize": 3800987,
       "hashes": {
-        "sha1": "357e3062b2930a269332c94ac863e7916d023116",
-        "sha512": "bb0f2608f9055cf992c91375c98e77feafef4f596d9bf4046683664e6eb49d9cf294b3d74b28e640c4301b3bb525dca41c2ea97b992f14cbf923dbef3f5a0b60"
+        "sha1": "d975d25c9686de5f10e8b86c8518613cdf3f040a",
+        "sha512": "40bcbac9c656f2965f543e4b35cd0698723b2db8b67662f1b53c14223cfbef7d60d7fbf0176f73fcadd0d1e19ba60d951ed77e9eece8c8df7dca4d2be6315309"
       },
-      "path": "shaderpacks/RedHat_v34.3.1.zip"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/z8EjLYqN/versions/BO6K7uVU/Sildur%27s%20Vibrant%20Shaders%20v2.01%20Extreme.zip"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 251294,
-      "hashes": {
-        "sha1": "78021b50600a7c46ce9371348b130cbb1f225f6f",
-        "sha512": "0aa79d97d3d72e8963bb9acedc8308ef33cc9c41c28e7dbcfcf8eee53fa73c509033a2c05deaa3c0890c5abefd45b65ef938ff3417acd51d5471fae3f21ab9a9"
-      },
-      "path": "shaderpacks/Sildur's Vibrant Shaders v2.01 Extreme.zip"
+      "path": "shaderpacks/photon_v1.3b.zip"
     }
   ],
   "formatVersion": 1,
   "game": "minecraft",
   "name": "BTE Germany Modpack",
-  "versionId": "1.4.0-alpha.1"
+  "versionId": "1.4.0-beta.2"
 }

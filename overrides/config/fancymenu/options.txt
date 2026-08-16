@@ -7,7 +7,7 @@ B:play_vanilla_menu_music = 'true';
 
 ##[customization]
 
-B:modpack_mode = 'false';
+B:modpack_mode = 'true';
 B:show_customization_overlay = 'true';
 B:advanced_customization_mode = 'false';
 
@@ -28,7 +28,7 @@ S:custom_game_intro_skip_text = '';
 B:show_custom_window_icon = 'true';
 S:custom_window_icon_macos = '/config/fancymenu/assets/icon32x32.icns';
 S:custom_window_icon_32 = '/config/fancymenu/assets/icon32x32.png';
-S:custom_window_title = 'BTEG Modpack for MC 1.21.10 (v1.3.5)';
+S:custom_window_title = 'BTEG Modpack for 26.2 (v1.4.0-beta.2)';
 S:custom_window_icon_16 = '/config/fancymenu/assets/icon16x16.png';
 
 

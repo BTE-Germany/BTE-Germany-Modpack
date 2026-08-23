@@ -356,7 +356,7 @@ layout_action_executable_blocks {
 
 element {
   interactable = true
-  source = BTEG Modpack for {"placeholder":"mcversion"} (v1.4.0-beta.2)
+  source = BTEG Modpack for {"placeholder":"mcversion"} (v1.4.0)
   source_mode = direct
   shadow = true
   enable_scrolling = true
@@ -1696,7 +1696,7 @@ vanilla_button {
   transparent_background = false
   restartbackgroundanimations = true
   nine_slice_custom_background = false
-  label = BTEG Modpack for {"placeholder":"mcversion"} (v1.4.0-beta.2)
+  label = BTEG Modpack for {"placeholder":"mcversion"} (v1.4.0)
   navigatable = true
   widget_active_state_requirement_container_identifier = 55352cc1-9a29-41e5-adba-5b3cca912131-1752874783363
   [loading_requirement_container_meta:55352cc1-9a29-41e5-adba-5b3cca912131-1752874783363] = [groups:][instances:]

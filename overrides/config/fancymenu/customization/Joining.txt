@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = connect_screen
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1786874087541
+  last_edited_time = 1787668210715
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:3ab12385-21be-486f-9062-d77b4e71eb4a-1786873952432] = [groups:][instances:]
+  [loading_requirement_container_meta:8ea829a8-a556-4e7b-b57b-08668d43aadd-1787668207002] = [groups:][instances:]
 }
 
 menu_background {
@@ -349,13 +349,13 @@ element {
   fade_in_v2 = no_fading
   fade_out = no_fading
   auto_sizing = false
-  auto_sizing_base_screen_width = 2560
-  auto_sizing_base_screen_height = 1526
-  auto_sizing_base_gui_scale = 2
+  auto_sizing_base_screen_width = 2562
+  auto_sizing_base_screen_height = 1494
+  auto_sizing_base_gui_scale = 6
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -189
-  y = -160
+  x = -188
+  y = -109
   width = 374
   height = 69
   stay_on_screen = true
@@ -431,15 +431,15 @@ vanilla_button {
   fade_in_v2 = no_fading
   fade_out = no_fading
   auto_sizing = false
-  auto_sizing_base_screen_width = 0
-  auto_sizing_base_screen_height = 0
-  auto_sizing_base_gui_scale = 0
+  auto_sizing_base_screen_width = 2560
+  auto_sizing_base_screen_height = 1496
+  auto_sizing_base_gui_scale = 4
   sticky_anchor = false
-  anchor_point = vanilla
-  x = 540
-  y = 331
+  anchor_point = mid-centered
+  x = -103
+  y = -5
   width = 200
-  height = 9
+  height = 13
   stay_on_screen = true
   element_loading_requirement_container_identifier = 5919b78a-fe36-46b3-91a5-dace004021a8-1786873648783
   [loading_requirement_container_meta:5919b78a-fe36-46b3-91a5-dace004021a8-1786873648783] = [groups:][instances:]
@@ -511,12 +511,12 @@ vanilla_button {
   fade_out = no_fading
   auto_sizing = false
   auto_sizing_base_screen_width = 2560
-  auto_sizing_base_screen_height = 1526
-  auto_sizing_base_gui_scale = 2
+  auto_sizing_base_screen_height = 1496
+  auto_sizing_base_gui_scale = 4
   sticky_anchor = false
-  anchor_point = mid-centered
+  anchor_point = bottom-centered
   x = -100
-  y = -75
+  y = -47
   width = 200
   height = 20
   stay_on_screen = true

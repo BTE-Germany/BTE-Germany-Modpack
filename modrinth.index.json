@@ -609,7 +609,7 @@
         "https://cdn.modrinth.com/data/fxxUqruK/versions/zZX86mbc/voxy-0.2.18-beta.jar"
       ],
       "env": {
-        "client": "required",
+        "client": "optional",
         "server": "unsupported"
       },
       "fileSize": 12657845,

@@ -99,15 +99,15 @@
         "https://cdn.modrinth.com/data/4das1Fjq/versions/BbRYOGo5/Flashback-0.42.2-for-MC26.2.jar"
       ],
       "env": {
-        "client": "optional",
-        "server": "optional"
+        "client": "required",
+        "server": "required"
       },
       "fileSize": 212390741,
       "hashes": {
         "sha1": "0fa58e7797ac7f22954bbac1ebf242e803f13a9e",
         "sha512": "1ea9c3f2f40ffdec951a9357685a3dfc77768d03eaeead0955118aafffe1fd5065d7a6221dfecb2ae4bb38bb01af4d9c124f5893b974fab933c59acbbee3bbae"
       },
-      "path": "mods/Flashback-0.42.2-for-MC26.2.jar"
+      "path": "mods/Flashback-0.42.2-for-MC26.2.jar.disabled"
     },
     {
       "downloads": [
@@ -129,15 +129,15 @@
         "https://cdn.modrinth.com/data/nvQzSEkH/versions/ue8CO97w/Jade-mc26.2-Fabric-26.2.11.jar"
       ],
       "env": {
-        "client": "optional",
-        "server": "optional"
+        "client": "required",
+        "server": "required"
       },
       "fileSize": 1043764,
       "hashes": {
         "sha1": "101668371882c3413531025373f5d91b63e26dd0",
         "sha512": "730e07dd5cbbf850ba0e7fd4852b528867d3e2fc2de63b156c89eee9ee6dd92d882b744f97fe724f2aa0afc5b468577486d9558f80d3e46cc5fa133ba241b9c9"
       },
-      "path": "mods/Jade-mc26.2-Fabric-26.2.11.jar"
+      "path": "mods/Jade-mc26.2-Fabric-26.2.11.jar.disabled"
     },
     {
       "downloads": [
@@ -609,7 +609,7 @@
         "https://cdn.modrinth.com/data/fxxUqruK/versions/zZX86mbc/voxy-0.2.18-beta.jar"
       ],
       "env": {
-        "client": "optional",
+        "client": "required",
         "server": "unsupported"
       },
       "fileSize": 12657845,
@@ -617,22 +617,22 @@
         "sha1": "34206446f7625782b04382256083f44fe9551b83",
         "sha512": "2605d9255cc4e72e401cf8de299ad01c21a9a4828d4f8d2b6ec4f63ea59fd21c4d29c92255c50979f848cccb4057f0b687fb3c9c87fa4c0dd62f68540e4d84bb"
       },
-      "path": "mods/voxy-0.2.18-beta.jar"
+      "path": "mods/voxy-0.2.18-beta.jar.disabled"
     },
     {
       "downloads": [
         "https://cdn.modrinth.com/data/1u6JkXh5/versions/6YnCYPwc/worldedit-mod-7.4.5.jar"
       ],
       "env": {
-        "client": "optional",
-        "server": "optional"
+        "client": "required",
+        "server": "required"
       },
       "fileSize": 5154613,
       "hashes": {
         "sha1": "7d909b53f5fb76756bca1db08113151304cc173a",
         "sha512": "611ff7cc00d78c63a284ef26b6fbc806af295c469375e5e71e4d7e993aa6ea3fa90945e46511c99b6157a01ed5c3868a2a6419b47a38114cc1e67b32c20f7ca3"
       },
-      "path": "mods/worldedit-mod-7.4.5.jar"
+      "path": "mods/worldedit-mod-7.4.5.jar.disabled"
     },
     {
       "downloads": [

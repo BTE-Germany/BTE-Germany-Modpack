@@ -666,6 +666,21 @@
     },
     {
       "downloads": [
+        "https://github.com/chililisoup/BigSignWriter/releases/download/v2.2.0-26.2/bigsignwriter-2.2.0+26.2-fabric.jar"
+      ],
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "fileSize": 190952,
+      "hashes": {
+        "sha1": "9df4d17b0eded6830cbf32619255c39efc638eea",
+        "sha512": "7173a14570ef7030e2641554e8c1a12da551736ed6965e86d3a34465884fb938f09dd99ec4d39047f4badd172bec5a533ecde0c9e1354a72a743b31a09cb9edf"
+      },
+      "path": "mods/bigsignwriter-2.2.0+26.2-fabric.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/lLqFfGNs/versions/gUv7fBPN/photon_v1.3b.zip"
       ],
       "env": {

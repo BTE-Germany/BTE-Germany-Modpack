@@ -1,0 +1,337 @@
+{
+  "version": 7,
+  "profiles": [
+    {
+      "version": 4,
+      "name": "Default Profile",
+      "links": [],
+      "addToHistory": "OFF",
+      "showHudMessage": "OFF",
+      "resumeRepeating": "OFF",
+      "useRatelimit": "ON",
+      "macros": [
+        {
+          "version": 7,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "name": "",
+          "mcActivatorKey": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.keypad.1",
+            "limitKeyName": "key.keyboard.right.bracket"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "<info>",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 7,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "name": "",
+          "mcActivatorKey": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.keypad.2",
+            "limitKeyName": "key.keyboard.right.bracket"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "<void>",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 7,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "name": "",
+          "mcActivatorKey": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.keypad.3",
+            "limitKeyName": "key.keyboard.right.bracket"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "<mit>",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 7,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "name": "",
+          "mcActivatorKey": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.keypad.4",
+            "limitKeyName": "key.keyboard.right.bracket"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "<plink>",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 7,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "name": "",
+          "mcActivatorKey": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.keypad.5",
+            "limitKeyName": "key.keyboard.right.bracket"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "<prandom>",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 7,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "name": "",
+          "mcActivatorKey": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.keypad.6",
+            "limitKeyName": "key.keyboard.right.bracket"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "<48h>",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 7,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "name": "",
+          "mcActivatorKey": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.mouse.4",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/speed 5",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 7,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "name": "",
+          "mcActivatorKey": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.mouse.5",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/speed 1",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 7,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "name": "",
+          "mcActivatorKey": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.keypad.9",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "//sel poly",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 7,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "name": "",
+          "mcActivatorKey": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.keypad.8",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "//sel cuboid",
+              "delayTicks": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spDefault": 0,
+  "mpDefault": 0,
+  "defaultConflictStrategy": "SUBMIT",
+  "defaultSendMode": "SEND",
+  "defaultActivationType": "HOLD",
+  "ratelimitCount": 4,
+  "ratelimitTicks": 20,
+  "ratelimitStrict": false,
+  "ratelimitSp": false,
+  "lengthLimitLength": 256,
+  "macroMcKeyCount": 0
+}

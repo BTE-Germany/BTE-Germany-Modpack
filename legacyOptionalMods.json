@@ -1,0 +1,52 @@
+[
+  {
+    "label": "Command Keys",
+    "url": "https://cdn.modrinth.com/data/65UyswbY/versions/XU8p8uSk/commandkeys-fabric-3.103.1%2B26.2.jar",
+    "desc": "A powerful command macro mod."
+  },
+  {
+    "label": "Double Hotbar",
+    "url": "http://cdn.bte-germany.de/installer/26.2/double_hotbar-1.3.4-mc26.2-fabric.jar",
+    "desc": "Doppelte Hotbar"
+  },
+  {
+    "label": "Chat Heads",
+    "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/lyZOZ4qX/chat_heads-1.2.8-fabric-26.1.jar",
+    "desc": "Spielerköpfe vor Nachrichten"
+  },
+  {
+    "label": "Voxy",
+    "url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/bA64Ycl6/nvidium-0.4.4-beta4-26.2.jar",
+    "desc": "A Level of Detail rendering mod. Needs good/modern hardware - Alternative: Distant Horizon"
+  },
+  {
+    "label": "Nvidium",
+    "url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/bA64Ycl6/nvidium-0.4.4-beta4-26.2.jar",
+    "desc": "Fast nvidia only rendering engine for sodium"
+  },
+  {
+    "label": "BigSignWriter",
+    "url": "https://github.com/chililisoup/BigSignWriter/releases/download/v2.2.0-26.2/bigsignwriter-2.2.0+26.2-fabric.jar",
+    "desc": "Easily write large multi-line characters on signs!"
+  },
+  {
+    "label": "TristMacros",
+    "url": "https://github.com/tristepin222/TristMacros/releases/download/v1.0.2/tristsmacro-1.0.2.jar",
+    "desc": "Simple Macros, Dateibasierte mehrfach Macros. Created by a BTE Japan Builder"
+  },
+  {
+    "label": "Flashback",
+    "url": "https://cdn.modrinth.com/data/4das1Fjq/versions/BbRYOGo5/Flashback-0.42.2-for-MC26.2.jar",
+    "desc": "Record your Minecraft gameplay, play it back and create stunning cinematic shots. (Recommended)"
+  },
+  {
+    "label": "WorldEdit",
+    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/6YnCYPwc/worldedit-mod-7.4.5.jar",
+    "desc": "WorldEdit für Singleplayer"
+  },
+  {
+    "label": "Jade",
+    "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/ue8CO97w/Jade-mc26.2-Fabric-26.2.11.jar",
+    "desc": "Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+)"
+  }
+]

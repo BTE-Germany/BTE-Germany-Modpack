@@ -666,6 +666,36 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/blWBX5n1/versions/KpFKKs8P/forcecloseloadingscreen-2.3.6.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 120931,
+      "hashes": {
+        "sha1": "19629eb45c00005a8f71c831df4e5d59b4dda54d",
+        "sha512": "0c5c333d05a518819896efb10b685184f110bbe90bacaebe465a8b85676f96fd8e54147d727f1220432c795090cac72741aae2bbee094235d84f79904d3c1e18"
+      },
+      "path": "mods/forcecloseloadingscreen-2.3.6.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/SfMw2IZN/versions/bA64Ycl6/nvidium-0.4.4-beta4-26.2.jar"
+      ],
+      "env": {
+        "client": "optional",
+        "server": "unsupported"
+      },
+      "fileSize": 166506,
+      "hashes": {
+        "sha1": "4e697f8fd00ba35d77c3097da5a5d7d5780d6706",
+        "sha512": "f75349ea41ad107be74969990a1b275cc01a2552524571f7ecf552cc91e0269f98f8b94c4e892ca638077881adde11d795ae62c05f0ceadab8f06921399276ef"
+      },
+      "path": "mods/nvidium-0.4.4-beta4-26.2.jar"
+    },
+    {
+      "downloads": [
         "https://github.com/chililisoup/BigSignWriter/releases/download/v2.2.0-26.2/bigsignwriter-2.2.0+26.2-fabric.jar"
       ],
       "env": {

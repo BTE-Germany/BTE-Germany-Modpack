@@ -28,5 +28,10 @@
     "label": "Jade",
     "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/ue8CO97w/Jade-mc26.2-Fabric-26.2.11.jar",
     "desc": "Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+)"
+  },
+  {
+    "label": "TristMacros",
+    "url": "https://github.com/tristepin222/TristMacros/releases/download/v1.0.2/tristsmacro-1.0.2.jar",
+    "desc": "Simple Macros, Dateibasierte mehrfach Macros. Created by a BTE Japan Builder"
   }
 ]

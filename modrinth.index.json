@@ -696,6 +696,21 @@
     },
     {
       "downloads": [
+        "https://github.com/tristepin222/TristMacros/releases/download/v1.0.2/tristsmacro-1.0.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 13809,
+      "hashes": {
+        "sha1": "981201b8c4712f44fa5dbe97dd6c89a086964461",
+        "sha512": "fd5476cecaffd70c3d790b036eb59db2bd792c0c2f9fe0d5c6e2462cb5f79ef63fd145644972752cb31ed1e647bb2c6ce8e5ecdc779d1a2e23bba3efdfa064fa"
+      },
+      "path": "mods/tristsmacro-1.0.2.jar.disabled"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/lLqFfGNs/versions/gUv7fBPN/photon_v1.3b.zip"
       ],
       "env": {

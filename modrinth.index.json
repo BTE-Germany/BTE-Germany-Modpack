@@ -681,6 +681,21 @@
     },
     {
       "downloads": [
+        "https://github.com/Chocohead/Crafty-Crashes/releases/download/v1.0/Crafty-Crashes-1.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 22872,
+      "hashes": {
+        "sha1": "61c39bc755e3a3e37c10cdb42c78e9800c9fd9db",
+        "sha512": "2d435f1c79fe96b257cb7614ea6a76af950652eb4a20ed2d7372da6adb928659b3caded042fbde63e9206d218eee1225f4cdd2f22e5fd1f73e971a6164c5ee2d"
+      },
+      "path": "mods/Crafty-Crashes-1.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/lLqFfGNs/versions/gUv7fBPN/photon_v1.3b.zip"
       ],
       "env": {

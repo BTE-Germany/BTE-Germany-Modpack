@@ -186,18 +186,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/NSLJJooQ/versions/DXW8m2gO/WorldEditCUI-26.2%2B02.jar"
+        "https://github.com/Zoriot/WorldEditCUI/releases/download/26.2%2B03%2BSNAPSHOT/WorldEditCUI-26.2+03+SNAPSHOT.jar"
       ],
       "env": {
         "client": "required",
         "server": "unsupported"
       },
-      "fileSize": 702500,
+      "fileSize": 699243,
       "hashes": {
-        "sha1": "2bd0e35d25f0841a785199d9c30561fa216f3af1",
-        "sha512": "9f682e0170da8b56ff4753ea71bbf5b339e8a52b43e078851f86427097853c208c91fc94e3db5801c552b989efd73f9f7994b6ee6c9b8bcc13e98abc797b2f93"
+        "sha1": "f5112dd6375a2513b35b20068b7bb7aec1260cef",
+        "sha512": "738c5f6b20f10c619f1c8d1547862b71acc5eed80b22979d32745cac6cd876ddbc47331886aaf8b2ec60e4e1c9b3d4aa39a67c92f0c45deba5f06e4853a46a85"
       },
-      "path": "mods/WorldEditCUI-26.2+02.jar"
+      "path": "mods/WorldEditCUI-26.2+03+SNAPSHOT.jar"
     },
     {
       "downloads": [

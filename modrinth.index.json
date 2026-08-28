@@ -96,33 +96,33 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/4das1Fjq/versions/BbRYOGo5/Flashback-0.42.2-for-MC26.2.jar"
+        "https://cdn.modrinth.com/data/4das1Fjq/versions/8bITQOSG/Flashback-0.43.2-for-MC26.2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 212390741,
+      "fileSize": 202231516,
       "hashes": {
-        "sha1": "0fa58e7797ac7f22954bbac1ebf242e803f13a9e",
-        "sha512": "1ea9c3f2f40ffdec951a9357685a3dfc77768d03eaeead0955118aafffe1fd5065d7a6221dfecb2ae4bb38bb01af4d9c124f5893b974fab933c59acbbee3bbae"
+        "sha1": "9907c9ef3e570e304d322fd10c2a3b8243896f44",
+        "sha512": "d3fbf79e871688b50de3a6579c9824aad447dec263042a06d102eebfd95066f159d4dfc4ebed0824ad5775e349deef2dd489645f9ab393cdd82f0fce26431a46"
       },
-      "path": "mods/Flashback-0.42.2-for-MC26.2.jar.disabled"
+      "path": "mods/Flashback-0.43.2-for-MC26.2.jar.disabled"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/rxHcwxdQ/ImmediatelyFast-Fabric-1.16.3%2B26.2.jar"
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/vkW9vHhp/ImmediatelyFast-Fabric-1.16.4%2B26.2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 92582,
+      "fileSize": 98633,
       "hashes": {
-        "sha1": "3a9fe02bbfdecd6af9ab418b55d4ebc9f0f1f5d3",
-        "sha512": "79321f00b73755ae54f08120e81fd559dc5d7a34ef7bedddd1e9e467de0daebec885b377db5fffd4aa190d81ce44c66af38fbef82ad49f661da5ddd2ef3fc49e"
+        "sha1": "ad000a89ef86575019087a2068eb4eebad02c05e",
+        "sha512": "b8b375e6d47acd6051fc7110065d0a18b59db584eb68699652ced212ea0a9b2b9a78d2f791f641ab3547e0ca56b51e0af7c60c1164b4d38910d9aa94e45241c0"
       },
-      "path": "mods/ImmediatelyFast-Fabric-1.16.3+26.2.jar"
+      "path": "mods/ImmediatelyFast-Fabric-1.16.4+26.2.jar"
     },
     {
       "downloads": [
@@ -321,18 +321,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/vmQp7ixA/fabric-api-0.157.0%2B26.2.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/NqwNSxwA/fabric-api-0.158.0%2B26.2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 2533297,
+      "fileSize": 2535765,
       "hashes": {
-        "sha1": "0deb9d110def35ebcaf5f15a9e6c8b8e85685319",
-        "sha512": "4ebec489f2b2ce621ebebb2d1b7e9714b6fd288ebdb4e287d767cde57612cf1d3d1d4f51daf7e7ec9541fa146df6bde4978ab98a29637ced6d9bc2f3c4217650"
+        "sha1": "7d0fb560579d28b933bdbc36b47449efe78d3bda",
+        "sha512": "4c2c1ebe74ffd54875a01ff371b53ba3d8674ac98d561f7dae02a96d3d37fbdbc5f5abc6e820f73b6154d6f873ddd05a442b0998ed2d456863dc0ad972e040a6"
       },
-      "path": "mods/fabric-api-0.157.0+26.2.jar"
+      "path": "mods/fabric-api-0.158.0+26.2.jar"
     },
     {
       "downloads": [
@@ -351,18 +351,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/WO5SCu8L/fancymenu_fabric_3.9.10_MC_26.2.jar"
+        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/4GUsruq4/fancymenu_fabric_3.9.11_MC_26.2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 26285374,
+      "fileSize": 26286254,
       "hashes": {
-        "sha1": "8cb441e07a8d7df02c3ffea4c3782f2bd8bbc063",
-        "sha512": "570c9b271816156194dc1e509a6f4c497884a853f5bfaa94ee0fb680a745643e0c01f51bd3b13acd1f2aadba6f40c500de585c59afe7adff1ed7ea521601350a"
+        "sha1": "1c0476a9d4b5629d790c70fc949ac24436720f42",
+        "sha512": "9fc1d08b549de3b382f27fe137ad29e33336c2aaeb03099d8ce19cf8483e7767fa1963e2eabd1793b51462d447e92a9c8492d1d2cd7799162a4b1f2f7a71438c"
       },
-      "path": "mods/fancymenu_fabric_3.9.10_MC_26.2.jar"
+      "path": "mods/fancymenu_fabric_3.9.11_MC_26.2.jar"
     },
     {
       "downloads": [

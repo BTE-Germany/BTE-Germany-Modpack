@@ -20,6 +20,11 @@
     "desc": "Fast nvidia only rendering engine for sodium"
   },
   {
+    "label": "BigSignWriter",
+    "url": "https://github.com/chililisoup/BigSignWriter/releases/download/v2.2.0-26.2/bigsignwriter-2.2.0+26.2-fabric.jar",
+    "desc": "Easily write large multi-line characters on signs!"
+  },
+  {
     "label": "TristMacros",
     "url": "https://github.com/tristepin222/TristMacros/releases/download/v1.0.2/tristsmacro-1.0.2.jar",
     "desc": "Simple Macros, Dateibasierte mehrfach Macros. Created by a BTE Japan Builder"

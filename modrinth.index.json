@@ -1,4 +1,8 @@
 {
+  "name": "BTE Germany Modpack",
+  "versionId": "1.4.1",
+  "game": "minecraft",
+  "formatVersion": 1,
   "dependencies": {
     "fabric-loader": "0.19.3",
     "minecraft": "26.2"
@@ -784,9 +788,5 @@
       },
       "path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
     }
-  ],
-  "formatVersion": 1,
-  "game": "minecraft",
-  "name": "BTE Germany Modpack",
-  "versionId": "1.4.0"
+  ]
 }

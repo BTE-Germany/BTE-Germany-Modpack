@@ -16,12 +16,12 @@
   },
   {
     "label": "Voxy",
-    "url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/bA64Ycl6/nvidium-0.4.4-beta4-26.2.jar",
+    "url": "https://cdn.modrinth.com/data/fxxUqruK/versions/LzyXnE51/voxy-0.2.19-beta.jar",
     "desc": "A Level of Detail rendering mod. Needs good/modern hardware - Alternative: Distant Horizon"
   },
   {
     "label": "Nvidium",
-    "url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/bA64Ycl6/nvidium-0.4.4-beta4-26.2.jar",
+    "url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/8srLBUtB/nvidium-0.4.4-beta5-26.2.jar",
     "desc": "Fast nvidia only rendering engine for sodium"
   },
   {
@@ -36,8 +36,8 @@
   },
   {
     "label": "Flashback",
-    "url": "https://cdn.modrinth.com/data/4das1Fjq/versions/BbRYOGo5/Flashback-0.42.2-for-MC26.2.jar",
-    "desc": "Record your Minecraft gameplay, play it back and create stunning cinematic shots. (Recommended)"
+    "url": "https://cdn.modrinth.com/data/4das1Fjq/versions/fZW00XaD/Flashback-0.43.3-for-MC26.2.jar",
+    "desc": "Record your Minecraft gameplay, play it back and create stunning cinematic shots."
   },
   {
     "label": "WorldEdit",

@@ -625,21 +625,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/AANobbMI/versions/xJZxADzI/sodium-fabric-0.9.2%2Bmc26.2.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 1885572,
-      "hashes": {
-        "sha1": "62a70961a5b3e06938e06ab5f2dc4c5a51cf3323",
-        "sha512": "9b7a7aade8824543ce2a804fddfd04e37f57d1f91c00574e7dc87e554eb1835d888313ee6f715a7599bd729840cf01fd74e02aeae87b4e5a3c10c34a016e407c"
-      },
-      "path": "mods/sodium-fabric-0.9.2+mc26.2.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/fxxUqruK/versions/LzyXnE51/voxy-0.2.19-beta.jar"
       ],
       "env": {

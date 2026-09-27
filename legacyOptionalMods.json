@@ -25,6 +25,11 @@
     "desc": "Fast nvidia only rendering engine for sodium"
   },
   {
+    "label": "Sign Edit",
+    "url": "https://github.com/Lu33Max/sign-edit/releases/download/v1.0.0/sign-edit-mc26.2-1.0.0.jar",
+    "desc": "Sign Edit is a client-side Fabric mod that expands Minecraft's sign editor with rich text formatting, color controls, and additional editing options."
+  },
+  {
     "label": "BigSignWriter",
     "url": "https://github.com/chililisoup/BigSignWriter/releases/download/v2.2.0-26.2/bigsignwriter-2.2.0+26.2-fabric.jar",
     "desc": "Easily write large multi-line characters on signs!"

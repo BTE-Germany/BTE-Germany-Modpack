@@ -1,7 +1,7 @@
 [
   {
     "label": "Command Keys",
-    "url": "https://cdn.modrinth.com/data/65UyswbY/versions/D2aoVoRh/commandkeys-fabric-3.104.0%2B26.3.jar",
+    "url": "https://cdn.modrinth.com/data/65UyswbY/versions/rcrd6C2s/commandkeys-fabric-3.104.1%2B26.3.jar",
     "desc": "A powerful command macro mod."
   },
   {
@@ -28,11 +28,6 @@
     "label": "BigSignWriter",
     "url": "https://cdn.modrinth.com/data/UCpxwAAu/versions/ics7z6RR/bigsignwriter-3.1.1%2B26.3.jar",
     "desc": "Easily write large multi-line characters on signs!"
-  },
-  {
-    "label": "TristMacros",
-    "url": "https://github.com/tristepin222/TristMacros/releases/download/v1.0.2/tristsmacro-1.0.2.jar",
-    "desc": "Simple Macros, Dateibasierte mehrfach Macros. Created by a BTE Japan Builder"
   },
   {
     "label": "Flashback",
